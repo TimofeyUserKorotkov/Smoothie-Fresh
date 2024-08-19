@@ -25,8 +25,4 @@ public class ShopController : MonoBehaviour
             shopItem.SetImage(fruitIcons[i]);
         }
     }
-    void Update()
-    {
-        
-    }
 }
